@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo for beginner',
+      title: 'Flutter Demo for beginner, now we are not newbies',
       theme: ThemeData(
         // This is the theme of your application.
         //
